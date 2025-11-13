@@ -1,4 +1,4 @@
-# Fetch Users from Public API (Beginner Task)
+# Fetch Users from Public API 
 
 This Python script fetches a list of users from a public API and displays their details in a clean format.
 
